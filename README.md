@@ -17,8 +17,8 @@ Here's a list of my tech stack and skills:
 ![TailwindCSS](https://img.shields.io/badge/-Tailwindcss-blue?style=for-the-badge)
 
 ![MongoDB](https://img.shields.io/badge/-Mongodb-brightgreen?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-mysql-blue?style=for-the-badge)
-![Go](https://img.shields.io/badge/-Go-cyan?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-mysql-brightblue?style=for-the-badge)
+![Go](https://img.shields.io/badge/-Go-blue?style=for-the-badge)
 
 <!--
 **hafidznaufl/hafidznaufl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
