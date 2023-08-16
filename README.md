@@ -1,6 +1,3 @@
-[![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://www.linkedin.com/in/hafidznaufl/)
-[![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://www.instagram.com/hafidznaufl/)
-
 Hello there 👋,
 
 I am a software engineer dedicated on bringing value to communities around me. Aside from software engineering, Check out my projects down below, and kindly leave a star (or "like") if you found anything I've made useful. Feel free to connect with me through my socials listed up above. Looking forward to connecting with you! ❤️
@@ -19,6 +16,8 @@ Here's a list of my tech stack and skills:
 
 ---
 
+[![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://www.linkedin.com/in/hafidznaufl/)
+[![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://www.instagram.com/hafidznaufl/)
 <!--
 **hafidznaufl/hafidznaufl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
