@@ -1,7 +1,3 @@
-
-![https://github-readme-stats.vercel.app/api?username=hafidznaufl&hide=contribs,prs,issues](https://github-readme-stats.vercel.app/api?username=hafidznaufl&hide=contribs,prs,issues)
-
-
 Hello there 👋,
 
 I am a software engineer dedicated on bringing value to communities around me. Aside from software engineering, Check out my projects down below, and kindly leave a star (or "like") if you found anything I've made useful. Feel free to connect with me through my socials listed up down below. Looking forward to connecting with you! ❤️
@@ -24,6 +20,7 @@ Here's a list of my tech stack and skills:
 ![MySQL](https://img.shields.io/badge/-mysql-brightblue?style=for-the-badge)
 ![Go](https://img.shields.io/badge/-Go-blue?style=for-the-badge)
 
+<!--![https://github-readme-stats.vercel.app/api?username=hafidznaufl&hide=contribs,prs,issues](https://github-readme-stats.vercel.app/api?username=hafidznaufl&hide=contribs,prs,issues)--!>
 <!--
 **hafidznaufl/hafidznaufl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
