@@ -12,13 +12,13 @@ I am a software engineer dedicated on bringing value to communities around me. A
 Here's a list of my tech stack and skills:
 
 
-![React](https://img.shields.io/badge/-React-blue?style=for-the-badge)
-![Go](https://img.shields.io/badge/-Go-blue?style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/-Tailwindcss-blue?style=for-the-badge)
+![React](https://img.shields.io/badge/-React-lightblue?style=for-the-badge)
+![Go](https://img.shields.io/badge/-Go-lightblue?style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/-Tailwindcss-lightblue?style=for-the-badge)
 
-![Express](https://img.shields.io/badge/-Express-green?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-Mongodb-green?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-mysql-green?style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-white?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-Mongodb-white?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
 
 
 <!--![https://github-readme-stats.vercel.app/api?username=hafidznaufl&hide=contribs,prs,issues](https://github-readme-stats.vercel.app/api?username=hafidznaufl&hide=contribs,prs,issues)--!>
