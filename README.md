@@ -13,12 +13,14 @@ Here's a list of my tech stack and skills:
 
 
 ![React](https://img.shields.io/badge/-React-lightblue?style=for-the-badge)
-![Go](https://img.shields.io/badge/-Go-lightblue?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-lightblue?style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwindcss-lightblue?style=for-the-badge)
+![Go](https://img.shields.io/badge/-Go-lightblue?style=for-the-badge)
 
+![NodeJS](https://img.shields.io/badge/-NodeJS-white?style=for-the-badge)
 ![Express](https://img.shields.io/badge/-Express-white?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-Mongodb-white?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySql-white?style=for-the-badge)
 
 
 <!--![https://github-readme-stats.vercel.app/api?username=hafidznaufl&hide=contribs,prs,issues](https://github-readme-stats.vercel.app/api?username=hafidznaufl&hide=contribs,prs,issues)--!>
