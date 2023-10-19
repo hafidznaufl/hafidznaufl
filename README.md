@@ -21,10 +21,12 @@ Here's a list of my tech stack and skills:
 ![MongoDB](https://img.shields.io/badge/-Mongodb-white?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySql-white?style=for-the-badge)
 
-
 <!--![https://github-readme-stats.vercel.app/api?username=hafidznaufl&hide=contribs,prs,issues](https://github-readme-stats.vercel.app/api?username=hafidznaufl&hide=contribs,prs,issues)--!>
 <!--
 **hafidznaufl/hafidznaufl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=hafidznaufl&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hafidznaufl&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 Here are some ideas to get you started:
 
