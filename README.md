@@ -1,3 +1,5 @@
+![https://github-readme-stats.vercel.app/api?username=hafidznaufl&hide=contribs,prs,issues](https://github-readme-stats.vercel.app/api?username=hafidznaufl&hide=contribs,prs,issues)
+
 Hello there 👋,
 
 I am a software engineer dedicated on bringing value to communities around me. Aside from software engineering, Check out my projects down below, and kindly leave a star (or "like") if you found anything I've made useful. Feel free to connect with me through my socials listed up in my profile. Looking forward to connecting with you! ❤️
@@ -5,7 +7,6 @@ I am a software engineer dedicated on bringing value to communities around me. A
 ---
 
 Here's a list of my tech stack and skills:
-
 
 ![React](https://img.shields.io/badge/-React-lightblue?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-lightblue?style=for-the-badge)
