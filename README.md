@@ -18,6 +18,8 @@ Here's a list of my tech stack and skills:
 ![MongoDB](https://img.shields.io/badge/-Mongodb-white?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySql-white?style=for-the-badge)
 
+[![](https://visitcount.itsvg.in/api?id=hafidznaufl&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!--![https://github-readme-stats.vercel.app/api?username=hafidznaufl&hide=contribs,prs,issues](https://github-readme-stats.vercel.app/api?username=hafidznaufl&hide=contribs,prs,issues)--!>
 <!--
 **hafidznaufl/hafidznaufl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
