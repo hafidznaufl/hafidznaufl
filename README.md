@@ -1,4 +1,4 @@
-![https://github-readme-stats.vercel.app/api?username=hafidznaufl&hide=contribs,prs,issues](https://github-readme-stats.vercel.app/api?username=hafidznaufl&hide=contribs,prs,issues)
+![https://github-readme-stats.vercel.app/api?username=hafidznaufl&hide=contribs,prs,issues](https://github-readme-stats.vercel.app/api?username=hafidznaufl&hide=issues)
 
 Hello there 👋,
 
