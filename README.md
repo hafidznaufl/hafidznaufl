@@ -8,13 +8,17 @@ I am a software engineer dedicated on bringing value to communities around me. A
 
 Here's a list of my tech stack and skills:
 
-![React](https://img.shields.io/badge/-React-lightblue?style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-lightblue?style=for-the-badge)
-![Go](https://img.shields.io/badge/-Go-lightblue?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-lightblue?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-gray?style=for-the-badge)
+![NodeJS](https://img.shields.io/badge/-NodeJS-gray?style=for-the-badge)
+![Go](https://img.shields.io/badge/-Go-gray?style=for-the-badge)
+![ReactJS](https://img.shields.io/badge/-ReactJS-gray?style=for-the-badge)
+![NextJS](https://img.shields.io/badge/-NextJS-gray?style=for-the-badge)
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-gray?style=for-the-badge)
 
-![NodeJS](https://img.shields.io/badge/-NodeJS-white?style=for-the-badge)
-![Express](https://img.shields.io/badge/-ExpressJS-white?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/-NestJS-white?style=for-the-badge)
+![Gin](https://img.shields.io/badge/-Gin-white?style=for-the-badge)
+![Echo](https://img.shields.io/badge/-Echo-white?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-Mongodb-white?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySql-white?style=for-the-badge)
 
