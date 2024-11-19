@@ -10,12 +10,12 @@ Here's a list of my tech stack and skills:
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-gray?style=for-the-badge)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-gray?style=for-the-badge)
-![Go](https://img.shields.io/badge/-Go-gray?style=for-the-badge)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-gray?style=for-the-badge)
 ![NextJS](https://img.shields.io/badge/-NextJS-gray?style=for-the-badge)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-gray?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/-NestJS-gray?style=for-the-badge)
 
-![NestJS](https://img.shields.io/badge/-NestJS-white?style=for-the-badge)
+![Go](https://img.shields.io/badge/-Go-white?style=for-the-badge)
 ![Gin](https://img.shields.io/badge/-Gin-white?style=for-the-badge)
 ![Echo](https://img.shields.io/badge/-Echo-white?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=for-the-badge)
